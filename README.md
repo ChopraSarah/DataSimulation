@@ -13,6 +13,6 @@ Simulations:
 In a linear model for above dataset we will have the final equation as:
    Y = b0 + b1*Y + b2*X22 + b3*X23 + b4*X24 + b5*X25 + b6*X32 + b7*X33 + b8*X34 + b9X35 + error
 
-1) The first simulation, varies b9 from 1 - 5, taking five different values.
+1) The first simulation (k), varies b9 from 1 - 5, taking five different values.
 2) The second simulation (ss) varies sample size taking values 10,25,50,100,500
 3) The third simulation (sg) varies variance of error taking values 0.1,0.3,0.7,1,10
