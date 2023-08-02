@@ -11,8 +11,7 @@ X2 and X3 are categorical independent variables. X2 and X3 have five levels each
 Simulations:
 
 In a linear model for above dataset we will have the final equation as:
-   Y = b0 + b1*Y + b2*X22 + b3*X23 + b4*X24 + b5*X25 + b6*X32 + b7*X33
-   + b8*X34 + b9*X35 + error
+   Y = b0 + b1*Y + b2*X22 + b3*X23 + b4*X24 + b5*X25 + b6*X32 + b7*X33 + b8*X34 + b9*X35 + error
 
 1) The first simulation, varies b9 from 1 - 5, taking five different values.
 2) The second simulation (ss) varies sample size taking values 10,25,50,100,500
